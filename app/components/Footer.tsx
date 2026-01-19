@@ -78,7 +78,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="mailto:hello@solospark.mn"
+                                            href="mailto:info@solospark.mn"
                                             className="text-sm text-zinc-600 transition-colors hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50"
                                         >
                                             Холбогдох
@@ -95,7 +95,7 @@ export default function Footer() {
                                 <ul className="mt-4 space-y-2">
                                     <li>
                                         <a
-                                            href="mailto:hello@solospark.mn"
+                                            href="mailto:info@solospark.mn"
                                             className="text-sm text-zinc-600 transition-colors hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50"
                                         >
                                             Зөвлөгөө
@@ -103,7 +103,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="mailto:invest@solospark.mn"
+                                            href="mailto:info@solospark.mn"
                                             className="text-sm text-zinc-600 transition-colors hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50"
                                         >
                                             Стартап илгээх
@@ -111,7 +111,7 @@ export default function Footer() {
                                     </li>
                                     <li>
                                         <a
-                                            href="mailto:hackathons@solospark.mn"
+                                            href="mailto:info@solospark.mn"
                                             className="text-sm text-zinc-600 transition-colors hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50"
                                         >
                                             Хаккатон мэдээлэл
@@ -128,7 +128,7 @@ export default function Footer() {
                             Хүмүүсийн хэрэгтэй зүйл бүтээгээрэй.
                         </p>
                         <Link
-                            href="mailto:hello@solospark.mn?subject=Онцгой санал - 30 хоногт MVP"
+                            href="mailto:info@solospark.mn?subject=Онцгой санал - 30 хоногт MVP"
                             className="inline-block rounded-lg bg-zinc-900 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-zinc-800 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200"
                         >
                             Эхлэх

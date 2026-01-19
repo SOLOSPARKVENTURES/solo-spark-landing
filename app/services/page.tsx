@@ -155,7 +155,7 @@ export default function ServicesPage() {
           </p>
           <div className="mt-6">
             <Link
-              href="mailto:hello@solospark.mn?subject=Хөгжүүлэлт - Зөвлөгөө авах"
+              href="mailto:info@solospark.mn?subject=Хөгжүүлэлт - Зөвлөгөө авах"
               className="inline-block rounded-lg border-2 border-zinc-900 bg-zinc-900 px-6 py-2.5 text-base font-medium text-white transition-colors hover:bg-zinc-800 dark:border-zinc-50 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200"
             >
               Зөвлөгөө авах
