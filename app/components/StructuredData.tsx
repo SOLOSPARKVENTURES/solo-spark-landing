@@ -10,7 +10,7 @@ export default function StructuredData() {
       "@type": "ContactPoint",
       telephone: "+976-XXXX-XXXX",
       contactType: "customer service",
-      email: "hello@solospark.mn",
+      email: "info@solospark.mn",
       areaServed: "MN",
       availableLanguage: "Mongolian"
     },
